@@ -25,7 +25,7 @@ dependencies:
   pdf:
     git:
       url: git@github.com:RemcoSchrijver/dart_pdf.git
-      path: printing/
+      path: pdf/
   plugin_platform_interface: ^2.0.0
 
 dev_dependencies:
